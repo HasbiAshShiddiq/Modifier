@@ -1,0 +1,7 @@
+C:\Users\amikom\source\repos\Modifier\Modifier\obj\Debug\Modifier.csprojAssemblyReference.cache
+C:\Users\amikom\source\repos\Modifier\Modifier\obj\Debug\Modifier.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\Modifier\Modifier\bin\Debug\Modifier.exe.config
+C:\Users\amikom\source\repos\Modifier\Modifier\bin\Debug\Modifier.exe
+C:\Users\amikom\source\repos\Modifier\Modifier\bin\Debug\Modifier.pdb
+C:\Users\amikom\source\repos\Modifier\Modifier\obj\Debug\Modifier.exe
+C:\Users\amikom\source\repos\Modifier\Modifier\obj\Debug\Modifier.pdb
